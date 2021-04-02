@@ -13,7 +13,7 @@
     "ovr-audio": "~0.1.0",
     "react": "15.3.2",
     "react-native": "0.37.0",
-    "three": "^0.80.1",
+    "three": "^0.125.0",
     "react-vr": "~0.1.0",
     "react-vr-web": "~0.1.0",
     "xopen": "1.0.0"
